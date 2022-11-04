@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle casas-de-apuestas-en-chile",
+        "command": "casas-de-apuestas-en-chile:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "casas-de-apuestas-en-chile",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "casas-de-apuestas-en-chile:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
