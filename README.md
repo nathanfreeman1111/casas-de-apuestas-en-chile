@@ -1,5 +1,6 @@
 # Las mejores casas de apuestas en Chile según reputación, selección de deportes, y bonos para jugadores chilenos
 
+![image6](https://user-images.githubusercontent.com/65598543/199980135-edbc33ed-ac61-460b-b637-36213dcc8362.png)
 
 La oferta en nuestro país es tal que escoger las mejores casas de apuestas en Chile puede llegar a ser todo un reto para los jugadores.
 
@@ -24,6 +25,7 @@ La casa de apuestas deportivas en Chile favorita de nuestros expertos es [Rabona
 
 ### 1. [Rabona](https://linkatin.net/go/rabona-atom-casasdeapuestasenchile/) - La mejor casa de apuestas deportivas en Chile
 
+![image4](https://user-images.githubusercontent.com/65598543/199980257-7e8bf5aa-9adc-4806-8111-0ba14553cea1.jpg)
 
 **Pros**
 
@@ -74,6 +76,7 @@ El operador no cobra ningún tipo de comisión por sus transacciones, que son in
 
 ### 2. [Leo Vegas Sport](https://linkatin.net/go/leovegassport-atom-casasdeapuestasenchile/) - La casa de apuestas en Chile con más premios
 
+![image1](https://user-images.githubusercontent.com/65598543/199980388-8b56b94e-f31a-44f2-b5c4-8956aed3610a.jpg)
 
 **Pros**
 
@@ -118,6 +121,7 @@ Leo Vegas trabaja en Chile con los siguientes métodos de pago: Neteller, AstroP
 
 ### 3. [Betsson](https://linkatin.net/go/betsson-atom-casasdeapuestasenchile/) - La mejor de las casas de apuestas en Chile en cuanto a plataforma
 
+![image2](https://user-images.githubusercontent.com/65598543/199980521-f19153fe-6d5a-4c14-b181-6cd75a153c24.jpg)
 
 **Pros**
 
@@ -167,6 +171,7 @@ Lo que nos gusta más es que los retiros en Betsson se gestionan en un plazo de 
 
 ### 4. [CyberBet](https://linkatin.net/go/cyberbet-atom-casasdeapuestasenchile/) - La mejor casa de apuestas en Chile que también ofrece casino
 
+![image5](https://user-images.githubusercontent.com/65598543/199980692-a3d65da9-2cce-42b0-935a-fffbb4d5302c.jpg)
 
 **Pros**
 
@@ -209,6 +214,7 @@ Sin embargo, no ofrece una variedad suficiente en los ewallets, aunque hay una g
 
 ### 5. [Cloudbet](https://linkatin.net/go/cloudbet-atom-casasdeapuestasenchile/) - La mejor casa de apuestas online chilena que acepta criptomonedas
 
+![image3](https://user-images.githubusercontent.com/65598543/199980767-40230ab3-f11d-4b67-853d-8293f61eece1.jpg)
 
 **Pros**
 
