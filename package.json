@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "casas-de-apuestas-en-chile:toggle"
   },
-  "repository": "https://github.com/atom/casas-de-apuestas-en-chile",
+  "repository": "https://github.com/nathanfreeman1111/casas-de-apuestas-en-chile",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
